@@ -7,3 +7,4 @@ I have used the TAILWIND css framework and used a few templates from git and ima
 #
 All credits for this webpage ideas goes to you tube channel code with harry, from whose videos I got to know about the TAILWIND framework and I started working on making this website.
 Thanks to google for providing amazing school quotes and images. 
+# To run this repository, simply run the inndex file
